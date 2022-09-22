@@ -1,0 +1,10 @@
+git command ----------
+
+
+
+git init
+git remote add origin REPO-URL
+git status
+git add filename or git add .
+git commit -m "comment"
+git push origin master
