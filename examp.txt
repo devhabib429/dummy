@@ -8,3 +8,10 @@ git status
 git add filename or git add .
 git commit -m "comment"
 git push origin master
+
+TWO WAY TO CREATE BRANCH
+   ---- GUI
+   -----Command
+             git branch branchName
+             git branch 
+             git checkout branchName
