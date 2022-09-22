@@ -17,11 +17,16 @@ TWO WAY TO CREATE BRANCH
              git checkout branchName
 
 
+Pull changes from remote url----
 
-------------------------------------------------------
+git pull origin master
+
+Check log ------
+
+git log
+
+----------------
+
+git diff
 
 
-Developer A ---- branch1
-Developer B -----branch2
-
-Manager --------Master
