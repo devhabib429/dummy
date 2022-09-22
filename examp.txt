@@ -15,3 +15,13 @@ TWO WAY TO CREATE BRANCH
              git branch branchName
              git branch 
              git checkout branchName
+
+
+
+------------------------------------------------------
+
+
+Developer A ---- branch1
+Developer B -----branch2
+
+Manager --------Master
